@@ -1,7 +1,7 @@
 # Práctica 1
 Este es el archivo README de la práctica 1.
 ### Prerequisitos
-Aquí van los paquetes que se necesitan para que esta cosa funcione.  
+Aquí van los paquetes que se necesitan para que esta cosa funcione.   
 ‘‘‘
 Dar ejemplos:
 * NLTK
