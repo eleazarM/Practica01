@@ -23,4 +23,4 @@ Y seguir:
 otra instrucción
 ‘‘‘
 ## Autor
-* **Manuel** - *Trabajo inicial* -
+* **Manuel** - *Trabajo inicial* - 
